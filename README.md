@@ -19,5 +19,13 @@ As for the testbench created is the Reto_tb.v, the following testbench gave the 
 
 ![image](https://user-images.githubusercontent.com/66384782/139377521-720b7cc4-30fc-4955-8f5d-8f5fe81067eb.png)
 
+![image](https://user-images.githubusercontent.com/66384782/139377654-a9c43b27-4282-446e-8724-0024fa37b913.png)
+
+![image](https://user-images.githubusercontent.com/66384782/139377675-0ddb7653-abd9-4d09-b810-3ace136f3236.png)
+
+![image](https://user-images.githubusercontent.com/66384782/139377717-a7a956c9-cf4e-467f-9299-8653fe768df5.png)
+
+![image](https://user-images.githubusercontent.com/66384782/139377731-53d86594-f90c-4d58-a3e6-df665fbf905e.png)
+
 
 The challenge was to dictate which of the outputs will be high, the value 3 and 6 is when the output is high. 
